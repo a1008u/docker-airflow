@@ -24,3 +24,7 @@ sftp-config.json
 
 # Python
 __pycache__
+
+./store_files/location*
+./store_files/clean*
+./store_files/store*
