@@ -172,10 +172,3 @@ You can also use those variables to adapt your compose file to match an existing
 
 Fork, improve and PR.
 
-
-
-airflow connections -a \
-  --conn_id slack_webhook \
-  --conn_type http \
-  --conn_host "https://hooks.slack.com/services" \
-  --conn_extra '{"webhook_token":"/TJH8L5T6J/B0118TYHPB3/2h8ZVaxAZjRDGLlmQ6Sx77A7}'
